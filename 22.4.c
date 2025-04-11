@@ -16,7 +16,7 @@ int vielmax ( int anzahl, ...) {
     return max;
 }
 int main () {
-    printf("Das Maximum der Zahlen 12,17,3,6,24,8 ist: %d\n", vielmax(6,12,17,3,6,24,8));
+    printf("Das Maximum der Zahlen 12,18,3,6,24,8 ist: %d\n", vielmax(6,12,17,3,6,24,8));
     printf("Das MAximum der Zahlen 105, 77,3,54 ist : %d\n", vielmax(4,105,77,3,54));
 
     return 0;
